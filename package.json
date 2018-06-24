@@ -62,5 +62,8 @@
     "typescript": "2.1.5",
     "webpack": "^3.10.0",
     "zone.js": "0.6.26"
+  },
+  "dependencies": {
+    "@ionic/angular": "^4.0.0-alpha.7"
   }
 }
